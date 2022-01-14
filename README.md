@@ -2,7 +2,7 @@
 HttpTrigger used to check Fileshare connectivity - Good for checking VNET and Private Endpoints on a fileshare are configured correctly
 
 
-###Configuration -> Application settings:
+### Configuration -> Application settings:
 ```
 FILE_SHARE = myfileshare // The name of the fileshare you want to connect to. Example: myfileshare
 
